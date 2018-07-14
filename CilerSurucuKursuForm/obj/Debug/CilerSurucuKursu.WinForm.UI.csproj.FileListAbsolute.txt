@@ -1,0 +1,27 @@
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\bin\Debug\CilerSurucuKursuForm.exe.config
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\obj\Debug\CilerSurucuKursu.WinForm.UI.csprojResolveAssemblyReference.cache
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\obj\Debug\CilerSurucuKursuForm.Login.resources
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\obj\Debug\CilerSurucuKursuForm.MainMenu.resources
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\obj\Debug\CilerSurucuKursuForm.Properties.Resources.resources
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\obj\Debug\CilerSurucuKursu.WinForm.UI.csproj.GenerateResource.Cache
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\bin\Debug\CilerSurucuKursuForm.exe
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\bin\Debug\CilerSurucuKursuForm.pdb
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\bin\Debug\BaseCore.dll
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\bin\Debug\BLL.dll
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\bin\Debug\MODEL.dll
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\bin\Debug\DataCore.dll
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\bin\Debug\BaseCore.pdb
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\bin\Debug\BLL.pdb
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\bin\Debug\MODEL.pdb
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\bin\Debug\DataCore.pdb
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\obj\Debug\CilerSurucuKursuForm.exe
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\obj\Debug\CilerSurucuKursuForm.pdb
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\obj\Debug\CilerSurucuKursuForm.MusteriUI.MusteriEkle.resources
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\obj\Debug\CilerSurucuKursuForm.MusteriUI.MusteriGuncelle.resources
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\obj\Debug\CilerSurucuKursuForm.KullaniciUI.KullaniciEkle.resources
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\obj\Debug\CilerSurucuKursuForm.KMainMenu.resources
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\obj\Debug\CilerSurucuKursuForm.KullaniciUI.KullaniciGuncelle.resources
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\CilerSurucuKursuForm\obj\Debug\CilerSurucuKursuForm.GenelEkran.resources
+C:\Users\burakcpc\Desktop\Github\CilerSurucuKursu_Github\CilerSurucuKursuForm\bin\Debug\CilerSurucuKursuForm.exe.config
+C:\Users\burakcpc\Desktop\Github\CilerSurucuKursu_Github\CilerSurucuKursuForm\obj\Debug\CilerSurucuKursuForm.exe
+C:\Users\burakcpc\Desktop\Github\CilerSurucuKursu_Github\CilerSurucuKursuForm\obj\Debug\CilerSurucuKursuForm.pdb

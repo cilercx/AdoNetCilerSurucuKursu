@@ -1,0 +1,5 @@
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\MODEL\bin\Debug\MODEL.dll
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\MODEL\obj\Debug\MODEL.dll
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\MODEL\obj\Debug\MODEL.pdb

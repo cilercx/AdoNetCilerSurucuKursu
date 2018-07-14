@@ -1,0 +1,7 @@
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\DataCore\bin\Debug\DataCore.dll
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\DataCore\bin\Debug\DataCore.pdb
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\DataCore\bin\Debug\BaseCore.dll
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\DataCore\bin\Debug\BaseCore.pdb
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\DataCore\obj\Debug\DataCore.csprojResolveAssemblyReference.cache
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\DataCore\obj\Debug\DataCore.dll
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\DataCore\obj\Debug\DataCore.pdb

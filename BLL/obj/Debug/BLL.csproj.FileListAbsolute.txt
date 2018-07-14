@@ -1,0 +1,11 @@
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\BLL\bin\Debug\BLL.dll
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\BLL\bin\Debug\BLL.pdb
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\BLL\bin\Debug\BaseCore.dll
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\BLL\bin\Debug\DataCore.dll
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\BLL\bin\Debug\MODEL.dll
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\BLL\bin\Debug\BaseCore.pdb
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\BLL\bin\Debug\DataCore.pdb
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\BLL\bin\Debug\MODEL.pdb
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\BLL\obj\Debug\BLL.dll
+C:\Users\Burak Coşkun\Desktop\EPazarlamaEF\CilerSurucuKursu\BLL\obj\Debug\BLL.pdb
